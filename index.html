@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>College Chatbot</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+
+<body>
+
+<div class="main">
+
+    <div class="sidebar">
+        <h2>💬 CollegeAssist</h2>
+        <button onclick="newChat()">+ New Chat</button>
+    </div>
+
+    <div class="chat-container">
+
+        <div class="header">🎓 College Chatbot</div>
+
+        <div id="chat-box">
+            <div class="msg bot">
+                <div class="bubble">👋 Hi! Ask me anything about college.</div>
+            </div>
+        </div>
+
+        <div class="input-area">
+            <input type="text" id="userInput" placeholder="Ask something..." autocomplete="off">
+            
+            <button onclick="sendMessage()">Send</button>
+
+            <!-- 🎤 VOICE BUTTON ADDED -->
+            <button onclick="startVoice()">🎤</button>
+        </div>
+
+    </div>
+
+</div>
+
+<script src="{{ url_for('static', filename='script.js') }}"></script>
+
+</body>
+</html>
