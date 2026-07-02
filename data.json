@@ -1,0 +1,403 @@
+[
+  {
+    "question": "What is the name of the college?",
+    "answer": "The name of the college is Jayaraj Annapackiam CSI College of Engineering."
+  },
+  {
+    "question": "Where is the college located?",
+    "answer": "Jayaraj Annapackiam CSI College of Engineering is located in Nazareth, Thoothukudi District, Tamil Nadu."
+  },
+  {
+    "question": "What courses are offered?",
+    "answer": "The college offers B.E., B.Tech., M.E., and MBA programmes."
+  },
+  {
+    "question": "Does the college offer BE?",
+    "answer": "Yes, the college offers B.E. programmes."
+  },
+  {
+    "question": "Does the college offer B.Tech?",
+    "answer": "Yes, the college offers B.Tech. programmes."
+  },
+  {
+    "question": "Does the college offer ME?",
+    "answer": "Yes, the college offers M.E. in Computer Science and Engineering."
+  },
+  {
+    "question": "Does the college offer MBA?",
+    "answer": "Yes, the college offers an MBA programme."
+  },
+  {
+    "question": "Which BE departments are available?",
+    "answer": "B.E. departments are Computer Science and Engineering, Electronics and Communication Engineering, and Mechanical Engineering."
+  },
+  {
+    "question": "Is CSE available?",
+    "answer": "Yes, Computer Science and Engineering (CSE) is available."
+  },
+  {
+    "question": "Is ECE available?",
+    "answer": "Yes, Electronics and Communication Engineering (ECE) is available."
+  },
+  {
+    "question": "Is Mechanical Engineering available?",
+    "answer": "Yes, Mechanical Engineering is available."
+  },
+  {
+    "question": "Which B.Tech departments are available?",
+    "answer": "B.Tech. programmes include Information Technology (IT) and Artificial Intelligence & Data Science (AIDS)."
+  },
+  {
+    "question": "Is IT available?",
+    "answer": "Yes, Information Technology (IT) is available."
+  },
+  {
+    "question": "Is AIDS available?",
+    "answer": "Yes, Artificial Intelligence and Data Science (AIDS) is available."
+  },
+  {
+    "question": "Which ME course is available?",
+    "answer": "M.E. in Computer Science and Engineering is available."
+  },
+  {
+    "question": "Is there a canteen?",
+    "answer": "Yes, the college has a canteen for students and staff."
+  },
+  {
+    "question": "Does the college have a library?",
+    "answer": "Yes, the college has a library with academic resources."
+  },
+  {
+    "question": "Is there a computer lab?",
+    "answer": "Yes, the college has a computer laboratory."
+  },
+  {
+    "question": "Does every department have a lab?",
+    "answer": "Yes, every department has its own laboratory."
+  },
+  {
+    "question": "Is there a playground?",
+    "answer": "Yes, the college has a playground for sports activities."
+  },
+  {
+    "question": "Does the college celebrate College Day?",
+    "answer": "Yes, College Day is celebrated every year."
+  },
+  {
+    "question": "Does the college celebrate Christmas?",
+    "answer": "Yes, the college celebrates Christmas with special programmes."
+  },
+  {
+    "question": "Does the college celebrate Pongal?",
+    "answer": "Yes, Pongal is celebrated with cultural programmes."
+  },
+  {
+    "question": "Does the college conduct Sports Day?",
+    "answer": "Yes, Sports Day is conducted every year."
+  },
+  {
+    "question": "Is placement training available?",
+    "answer": "Yes, the college provides placement training for students."
+  },
+  {
+    "question": "Does the college conduct campus interviews?",
+    "answer": "Yes, on-campus interviews are conducted for eligible students."
+  },
+  {
+    "question": "Is bus facility available?",
+    "answer": "Yes, the college provides bus transportation."
+  },
+  {
+    "question": "Is hostel available?",
+    "answer": "Yes, separate hostel facilities are available for boys and girls."
+  },
+  {
+    "question": "Is there a boys hostel?",
+    "answer": "Yes, the college has a separate boys hostel."
+  },
+  {
+    "question": "Is there a girls hostel?",
+    "answer": "Yes, the college has a separate girls hostel."
+  },
+  {
+    "question": "Does the college have good infrastructure?",
+    "answer": "Yes, the college provides good infrastructure with classrooms, labs, library and other facilities."
+  },
+  {
+    "question": "Are classrooms available?",
+    "answer": "Yes, the college has well-maintained classrooms."
+  },
+  {
+    "question": "Can students use the library?",
+    "answer": "Yes, students can access the library during working hours."
+  },
+  {
+    "question": "Are computer facilities available?",
+    "answer": "Yes, computer facilities are available for students."
+  },
+  {
+    "question": "Does the college encourage sports?",
+    "answer": "Yes, students are encouraged to participate in sports and games."
+  },
+  {
+    "question": "Are cultural events conducted?",
+    "answer": "Yes, various cultural events are conducted throughout the year."
+  },
+  {
+    "question": "Is Christmas celebrated every year?",
+    "answer": "Yes, Christmas celebrations are conducted every year."
+  },
+  {
+    "question": "Is Pongal celebrated every year?",
+    "answer": "Yes, Pongal celebrations are organized every year."
+  },
+  {
+    "question": "Does the college provide placement support?",
+    "answer": "Yes, placement support and career guidance are provided."
+  },
+  {
+    "question": "Do students get training before placements?",
+    "answer": "Yes, students receive placement training before campus interviews."
+  },
+  {
+    "question": "Does the college conduct technical events?",
+    "answer": "Yes, departments organize technical activities and events."
+  },
+  {
+    "question": "Are department laboratories available?",
+    "answer": "Yes, every department has its own laboratory for practical learning."
+  },
+  {
+    "question": "Is the college suitable for engineering studies?",
+    "answer": "Yes, the college offers multiple engineering programmes with good facilities."
+  },
+  {
+    "question": "Is MBA available after graduation?",
+    "answer": "Yes, graduates can apply for the MBA programme."
+  },
+  {
+    "question": "Can students participate in sports?",
+    "answer": "Yes, students can participate in various sports activities."
+  },
+  {
+    "question": "Does the college have campus recruitment?",
+    "answer": "Yes, campus recruitment drives are conducted by companies."
+  },
+  {
+    "question": "Is transport available for students?",
+    "answer": "Yes, transport facilities are available through college buses."
+  },
+  {
+    "question": "Is the library useful for studies?",
+    "answer": "Yes, the library provides books and study materials for students."
+  },
+  {
+    "question": "Does the college have separate hostels?",
+    "answer": "Yes, separate hostels are available for boys and girls."
+  },
+  {
+    "question": "What facilities are available in the college?",
+    "answer": "The college provides classrooms, library, computer lab, department labs, canteen, playground, bus facility, hostels, placement training and campus interviews."
+  }
+
+{
+    "question": "How can I apply for admission?",
+    "answer": "You can contact the admission office or visit the college for admission details."
+  },
+  {
+    "question": "Who can apply for BE?",
+    "answer": "Students who have completed Higher Secondary education with the required eligibility can apply for B.E."
+  },
+  {
+    "question": "Who can apply for B.Tech?",
+    "answer": "Students who meet the eligibility criteria after Higher Secondary education can apply for B.Tech."
+  },
+  {
+    "question": "Who can apply for ME?",
+    "answer": "Students with a relevant bachelor's degree in engineering can apply for M.E."
+  },
+  {
+    "question": "Who can apply for MBA?",
+    "answer": "Graduates from recognized universities can apply for the MBA programme."
+  },
+  {
+    "question": "Does the college provide quality education?",
+    "answer": "Yes, the college is committed to providing quality technical education."
+  },
+  {
+    "question": "Is there a placement cell?",
+    "answer": "Yes, the college has a dedicated placement cell."
+  },
+  {
+    "question": "Does the placement cell provide training?",
+    "answer": "Yes, placement training is provided to improve students' employability skills."
+  },
+  {
+    "question": "Are aptitude classes conducted?",
+    "answer": "Yes, aptitude training is provided as part of placement preparation."
+  },
+  {
+    "question": "Are communication skills training available?",
+    "answer": "Yes, communication skills training is provided for students."
+  },
+  {
+    "question": "Does the college conduct mock interviews?",
+    "answer": "Yes, mock interviews are conducted to prepare students for campus placements."
+  },
+  {
+    "question": "Do companies visit the college for recruitment?",
+    "answer": "Yes, various companies visit the college for campus recruitment."
+  },
+  {
+    "question": "Is internship guidance available?",
+    "answer": "Yes, students receive guidance for internships and career development."
+  },
+  {
+    "question": "Does the library have engineering books?",
+    "answer": "Yes, the library contains engineering books and reference materials."
+  },
+  {
+    "question": "Can students borrow books from the library?",
+    "answer": "Yes, students can borrow books according to the library rules."
+  },
+  {
+    "question": "Is Wi-Fi available in the college?",
+    "answer": "Please contact the college administration for the latest information about Wi-Fi facilities."
+  },
+  {
+    "question": "Are smart classrooms available?",
+    "answer": "The college provides classrooms equipped for effective teaching and learning."
+  },
+  {
+    "question": "Is there a seminar hall?",
+    "answer": "Yes, seminars and academic events are conducted in seminar halls."
+  },
+  {
+    "question": "Are workshops conducted?",
+    "answer": "Yes, departments regularly conduct workshops for students."
+  },
+  {
+    "question": "Are technical seminars conducted?",
+    "answer": "Yes, technical seminars are organized by various departments."
+  },
+  {
+    "question": "Does the college conduct symposiums?",
+    "answer": "Yes, departments organize symposiums and technical events."
+  },
+  {
+    "question": "Can students participate in cultural programmes?",
+    "answer": "Yes, students are encouraged to participate in cultural events."
+  },
+  {
+    "question": "Is Sports Day conducted every year?",
+    "answer": "Yes, Sports Day is celebrated every year with various competitions."
+  },
+  {
+    "question": "Are indoor games available?",
+    "answer": "Yes, students can participate in indoor games and activities."
+  },
+  {
+    "question": "Are outdoor games available?",
+    "answer": "Yes, outdoor sports activities are encouraged."
+  },
+  {
+    "question": "Does the college celebrate national festivals?",
+    "answer": "Yes, important national festivals are celebrated."
+  },
+  {
+    "question": "Does the college celebrate Teachers Day?",
+    "answer": "Yes, Teachers Day is celebrated with enthusiasm."
+  },
+  {
+    "question": "Does the college celebrate Independence Day?",
+    "answer": "Yes, Independence Day is celebrated every year."
+  },
+  {
+    "question": "Does the college celebrate Republic Day?",
+    "answer": "Yes, Republic Day is celebrated every year."
+  },
+  {
+    "question": "Are extracurricular activities encouraged?",
+    "answer": "Yes, students are encouraged to participate in extracurricular activities."
+  },
+  {
+    "question": "Is discipline maintained in the college?",
+    "answer": "Yes, discipline is strictly maintained on campus."
+  },
+  {
+    "question": "Are experienced faculty members available?",
+    "answer": "Yes, the college has qualified and experienced faculty members."
+  },
+  {
+    "question": "Are practical classes conducted?",
+    "answer": "Yes, practical sessions are conducted in department laboratories."
+  },
+  {
+    "question": "Does the college focus on practical learning?",
+    "answer": "Yes, practical learning is an important part of the curriculum."
+  },
+  {
+    "question": "Can students participate in technical competitions?",
+    "answer": "Yes, students are encouraged to participate in technical competitions."
+  },
+  {
+    "question": "Does the college provide career guidance?",
+    "answer": "Yes, career guidance programmes are organized for students."
+  },
+  {
+    "question": "Are soft skills training provided?",
+    "answer": "Yes, soft skills training is provided along with placement training."
+  },
+  {
+    "question": "Is personality development training available?",
+    "answer": "Yes, personality development programmes are conducted."
+  },
+  {
+    "question": "Does the college organize industrial visits?",
+    "answer": "Yes, departments organize industrial visits for practical exposure."
+  },
+  {
+    "question": "Can students participate in project exhibitions?",
+    "answer": "Yes, students can showcase their projects in exhibitions."
+  },
+  {
+    "question": "Does the college have student clubs?",
+    "answer": "Yes, various student clubs and activities are available."
+  },
+  {
+    "question": "Are academic counselling services available?",
+    "answer": "Yes, faculty members provide academic guidance and counselling."
+  },
+  {
+    "question": "Is the campus student-friendly?",
+    "answer": "Yes, the campus provides a supportive learning environment."
+  },
+  {
+    "question": "Does the college encourage innovation?",
+    "answer": "Yes, students are encouraged to develop innovative ideas and projects."
+  },
+  {
+    "question": "Are department events conducted?",
+    "answer": "Yes, every department conducts technical and cultural events."
+  },
+  {
+    "question": "Can parents meet faculty members?",
+    "answer": "Yes, parents can meet faculty members during scheduled meetings."
+  },
+  {
+    "question": "Does the college provide a safe campus?",
+    "answer": "Yes, the college provides a safe and secure environment."
+  },
+  {
+    "question": "Is the college suitable for higher education?",
+    "answer": "Yes, the college offers undergraduate and postgraduate programmes."
+  },
+  {
+    "question": "Why should I choose Jayaraj Annapackiam CSI College of Engineering?",
+    "answer": "The college offers quality education, experienced faculty, modern laboratories, library, hostel, transport, placement training, campus interviews, sports, cultural activities and a student-friendly environment."
+  },
+  {
+    "question": "Thank you",
+    "answer": "You're welcome! Have a great day."
+  }
+]
